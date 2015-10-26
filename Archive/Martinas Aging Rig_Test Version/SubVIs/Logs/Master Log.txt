@@ -1,0 +1,1 @@
+5405.000000	14.000000	7.000000	32.000000	0.244898	0.500000	0.750000	Label1	3		5	Y:\DAQ\Condensed Matter\HJSGroup\LabView\Ageing Box\Martinas Aging Rig\SubVIs\JV Data\Label1\3\Label1_pixel3_scan5_HL.txt

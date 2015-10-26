@@ -1,0 +1,14 @@
+0.011	-0.510	0.002	-0.451	A 1 P: 1	C:\Data\Raw\silver-mol-liv_107.lvm	Molarity	20	0.1200
+0.011	-0.510	0.004	-0.730	A 1 P: 1	C:\Data\Raw\silver-mol-liv_107.lvm	Molarity	20	0.1200
+0.011	-0.520	0.004	-0.719	A 1 P: 1	C:\Data\Raw\silver-mol-liv_108.lvm	Molarity	20	0.1200
+0.010	-0.510	0.002	-0.457	A 1 P: 1	C:\Data\Raw\silver-mol-liv_108.lvm	Molarity	20	0.1200
+0.010	-0.510	0.002	-0.445	A 1 P: 1	C:\Data\Raw\silver-mol-liv_109.lvm	Molarity	20	0.1200
+0.010	-0.510	0.004	-0.745	A 1 P: 1	C:\Data\Raw\silver-mol-liv_109.lvm	Molarity	20	0.1200
+0.009	-0.510	0.002	-0.443	A 1 P: 1	C:\Data\Raw\silver-mol-liv_111.lvm	Molarity	20	0.1200
+0.010	-0.520	0.004	-0.736	A 1 P: 1	C:\Data\Raw\silver-mol-liv_111.lvm	Molarity	20	0.1200
+0.010	-0.520	0.004	-0.738	A 1 P: 1	C:\Data\Raw\silver-mol-liv_112.lvm	Molarity	20	0.1200
+0.009	-0.510	0.002	-0.443	A 1 P: 1	C:\Data\Raw\silver-mol-liv_112.lvm	Molarity	20	0.1200
+0.000	-0.570	0.000	-0.426	A 1 P: 1	C:\Data\Raw\silver-mol-liv_025.lvm	Molarity	20	0.1200
+0.000	-0.810	0.000	-0.245	A 1 P: 1	C:\Data\Raw\silver-mol-liv_025.lvm	Molarity	20	0.1200
+0.000	-0.240	0.000	-4.083	A 1 P: 1	C:\Data\Raw\silver-mol-div_014.lvm	Molarity	20	0.1200
+0.000	-0.270	0.000	-2.111	A 1 P: 1	C:\Data\Raw\silver-mol-div_014.lvm	Molarity	20	0.1200
