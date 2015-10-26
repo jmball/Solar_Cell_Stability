@@ -18,7 +18,7 @@
 		<Item Name="Get best pixel array.vi" Type="VI" URL="../subvis/Get best pixel array.vi"/>
 		<Item Name="Keithley J-t List_IIT.vi" Type="VI" URL="../subvis/Keithley J-t List_IIT.vi"/>
 		<Item Name="Keithley Sweep and Acquire Measurements_averaging.vi" Type="VI" URL="../subvis/Keithley Sweep and Acquire Measurements_averaging.vi"/>
-		<Item Name="Martinas Aging Program v 1.2.vi" Type="VI" URL="../subvis/Martinas Aging Program v 1.2.vi"/>
+		<Item Name="Main.vi" Type="VI" URL="../subvis/Main.vi"/>
 		<Item Name="MeasureMaxPStab_v2.vi" Type="VI" URL="../subvis/MeasureMaxPStab_v2.vi"/>
 		<Item Name="Pre-bias Cell.vi" Type="VI" URL="../subvis/Pre-bias Cell.vi"/>
 		<Item Name="Queue cluster.ctl" Type="VI" URL="../Typedefs/Queue cluster.ctl"/>
@@ -35,7 +35,11 @@
 		<Item Name="UpdateServerErrorStatus.vi" Type="VI" URL="../subvis/UpdateServerErrorStatus.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="instr.lib" Type="Folder">
-				<Item Name="Keithley 24XX.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Keithley 24XX/Keithley 24XX.lvlib"/>
+				<Item Name="Configure Output List.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Configure/Configure Output List.vi"/>
+				<Item Name="Enable Output.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Action-Status/Enable Output.vi"/>
+				<Item Name="Keithley 24XX.lvlib" Type="Library" URL="/&lt;instrlib&gt;/keithley_24xx/Keithley 24XX/Keithley 24XX.lvlib"/>
+				<Item Name="Read (Multiple Points).vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Data/Read (Multiple Points).vi"/>
+				<Item Name="Read.vi" Type="VI" URL="/&lt;instrlib&gt;/Keithley 24XX/Public/Data/Read.vi"/>
 			</Item>
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -182,7 +186,7 @@
 			<Item Name="Format data to plot.vi" Type="VI" URL="../subvis/Format data to plot.vi"/>
 			<Item Name="Intialise or refresh queue.vi" Type="VI" URL="../subvis/Intialise or refresh queue.vi"/>
 			<Item Name="Load saved scan settings_arbitray cluster elements.vi" Type="VI" URL="../subvis/Load saved scan settings_arbitray cluster elements.vi"/>
-			<Item Name="lvanlys.dll" Type="Document" URL="../../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2011/resource/lvanlys.dll"/>
 			<Item Name="Measure all pixels on cell and save data.vi" Type="VI" URL="../subvis/Measure all pixels on cell and save data.vi"/>
 			<Item Name="Measure MaxPStabilisation.vi" Type="VI" URL="../subvis/Measure MaxPStabilisation.vi"/>
 			<Item Name="mscorlib" Type="VI" URL="mscorlib">
@@ -220,7 +224,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{F19368C4-8E5A-46EE-92BA-7D03E05382BB}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Martinas Aging Program v 1.2.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
