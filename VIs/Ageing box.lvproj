@@ -28,7 +28,9 @@
 		<Item Name="Scan settings array.ctl" Type="VI" URL="../Typedefs/Scan settings array.ctl"/>
 		<Item Name="Scan settings.ctl" Type="VI" URL="../Typedefs/Scan settings.ctl"/>
 		<Item Name="Select Pixel from MUX.vi" Type="VI" URL="../subvis/Select Pixel from MUX.vi"/>
+		<Item Name="ServerErrorFilePath.ctl" Type="VI" URL="../Typedefs/ServerErrorFilePath.ctl"/>
 		<Item Name="ServerStatusMessage.vi" Type="VI" URL="../subvis/ServerStatusMessage.vi"/>
+		<Item Name="SettingsFolderPath.ctl" Type="VI" URL="../Typedefs/SettingsFolderPath.ctl"/>
 		<Item Name="Sort scan settings.vi" Type="VI" URL="../subvis/Sort scan settings.vi"/>
 		<Item Name="StateEnum.ctl" Type="VI" URL="../Typedefs/StateEnum.ctl"/>
 		<Item Name="Synchronise local and server files.vi" Type="VI" URL="../subvis/Synchronise local and server files.vi"/>
